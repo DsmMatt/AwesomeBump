@@ -21,7 +21,7 @@ AwesomeBump is a free and open source program written using Qt library designed 
 * saving images to following formats: PNG, JPG,BMP,TGA
 * edit one texture which contains different materials
 * add some grunge to your map with grunge texture.
-* mix two bumpmaps togheter with normal map mixer.
+* mix two bumpmaps together with normal map mixer.
 * and many others, see our videos on YouTube
 
 #### Contributors:
